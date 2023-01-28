@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>accessing-mongodb-data-rest-complete</artifactId>
+	<artifactId>accessing-mongodb-data-rest-complete-mongodb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>accessing-mongodb-data-rest-complete</name>
 	<description>Demo project for Spring Boot</description>
